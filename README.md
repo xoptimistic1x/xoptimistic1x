@@ -11,11 +11,16 @@ Today, I'm exploring how AI development tools like OpenAI Codex and Lovable are 
 
 ## 🚀 What I'm Building
 
+### Entelibelle LLC
+Founder of [Entelibelle LLC](https://entelibelle.com), a technology company focused on digital product development, innovation, and strategic consulting.
+
+Through Entelibelle, I'm building technology products while exploring new ways to combine product thinking, creativity, and AI-assisted development.
+
 ### Visual Storytelling Studio
 An evolving creative tool I'm building with **OpenAI Codex Cloud**, exploring programmatic video creation, motion graphics, and reusable templates for social content.
 
 ### Travel RewardsGO
-Founder and Product Lead of [Travel RewardsGO](https://trgo.app), a platform helping travelers make smarter decisions about credit card rewards, points, miles, and loyalty programs.
+Founder and Product Lead of [Travel RewardsGO](https://trgo.app), a product of Entelibelle LLC that helps travelers make smarter decisions about credit card rewards, points, miles, and loyalty programs.
 
 Built using AI-assisted development workflows, React, TypeScript, and Supabase.
 
@@ -35,6 +40,7 @@ I also create educational content about AI tools, product development, and emerg
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/miacastillon/)
+- [Entelibelle LLC](https://entelibelle.com)
 - [Portfolio](https://productelevate.com)
 - [Travel RewardsGO](https://trgo.app)
 - [GitHub](https://github.com/xoptimistic1x)
